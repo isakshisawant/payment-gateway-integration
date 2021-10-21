@@ -8,4 +8,4 @@ There is a simple donate button on homepage. On clicking the donate button, the 
 
 Once the payment is done and invoice will be generated and email will be sent to the user for the payment received. The invoice will contain the amount.
 
-Check website here: https://pallavii28.github.io/Payment-Gateway-Integration/
+Check website here:  https://isakshisawant.github.io/payment-gateway-integration/
